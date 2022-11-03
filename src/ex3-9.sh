@@ -1,5 +1,5 @@
 #!/bin/sh
-fname=/home/zobbo/Desktop/ex3/DB.txt
+fname=/Users/yeonjae-jeong/Desktop/OpenSource/src/DB.txt
 
 grep $1 $fname
 
